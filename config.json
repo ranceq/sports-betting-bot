@@ -1,0 +1,13 @@
+{
+    "odds_sources": [
+        "https://api.the-odds-api.com"
+    ],
+    "statbook_url": [
+        "https://www.sports-reference.com/",
+        "https://www.thesportsdb.com/api/v2/json/all/leagues"
+    ],
+    "discord_channel_id": 1337625471407489114,
+    "odds_api_key": "1201f8f2e0b0901370718d5fc225df24"
+
+  }
+  
